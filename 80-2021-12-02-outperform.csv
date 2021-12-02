@@ -1,21 +1,21 @@
-,scheme_category,scheme_code,scheme_name,scheme_start_date
-0,Equity Scheme - Mid Cap Fund,114564,Axis Midcap Fund - Regular Plan - Growth,"{'date': '24-02-2011', 'nav': '9.99000'}"
-1,Equity Scheme - Flexi Cap Fund,122640,Parag Parikh Flexi Cap Fund - Regular Plan - Growth,"{'date': '28-05-2013', 'nav': '9.99910'}"
-2,Equity Scheme - Focused Fund,117560,Axis Focused 25 Fund - Regular Plan - Growth Option,"{'date': '05-07-2012', 'nav': '10.19000'}"
-3,Equity Scheme - Contra Fund,105460,Invesco India Contra Fund - Growth,"{'date': '12-04-2007', 'nav': '10.05000'}"
-4,Equity Scheme - Large Cap Fund,108467,ICICI Prudential Bluechip Fund - Institutional Option - I - Growth,"{'date': '26-05-2008', 'nav': '10.02000'}"
-5,Equity Scheme - Flexi Cap Fund,101922,CANARA ROBECO FLEXICAP FUND - REGULAR PLAN - GROWTH OPTION,"{'date': '03-04-2006', 'nav': '30.13000'}"
-6,Hybrid Scheme - Multi Asset Allocation,104898,ICICI Prudential Multi-Asset Fund-Institutional Option - I,"{'date': '14-02-2007', 'nav': '9.99070'}"
-7,Equity Scheme - Contra Fund,103040,Kotak India EQ Contra Fund - Growth,"{'date': '03-04-2006', 'nav': '14.13000'}"
-8,Equity Scheme - Large Cap Fund,108466,ICICI Prudential Bluechip Fund - Growth,"{'date': '26-05-2008', 'nav': '10.02000'}"
-9,Equity Scheme - Large Cap Fund,112277,Axis Bluechip Fund - Regular Plan - Growth,"{'date': '07-01-2010', 'nav': '10.08000'}"
-10,Equity Scheme - Large & Mid Cap Fund,112932,Mirae Asset Emerging Bluechip Fund - Regular Plan - Growth Option,"{'date': '12-07-2010', 'nav': '10.06600'}"
-11,Equity Scheme - Large Cap Fund,111937,Edelweiss Large Cap Fund -Plan C - Growth option,"{'date': '21-05-2009', 'nav': '9.90000'}"
-12,Equity Scheme - Flexi Cap Fund,100669,UTI - Flexi Cap Fund-Growth Option,"{'date': '03-04-2006', 'nav': '32.89000'}"
-13,Equity Scheme - Flexi Cap Fund,112090,Kotak Flexicap Fund - Growth,"{'date': '17-09-2009', 'nav': '10.15700'}"
-14,Equity Scheme - Focused Fund,102756,SBI FOCUSED EQUITY FUND - REGULAR PLAN -GROWTH,"{'date': '03-04-2006', 'nav': '28.28000'}"
-15,Equity Scheme - Large & Mid Cap Fund,106144,Invesco India Growth Opportunities Fund - Growth,"{'date': '13-08-2007', 'nav': '9.91000'}"
-16,Equity Scheme - Large Cap Fund,107578,Mirae Asset Large Cap Fund - Growth Plan,"{'date': '09-04-2008', 'nav': '9.98000'}"
-17,Equity Scheme - Large Cap Fund,111940,Edelweiss Large Cap Fund - Regular Plan - Growth Option,"{'date': '21-05-2009', 'nav': '9.90000'}"
-18,Equity Scheme - Large Cap Fund,111935,Edelweiss Large Cap Fund -Plan B - Growth option,"{'date': '21-05-2009', 'nav': '9.90000'}"
-19,Hybrid Scheme - Multi Asset Allocation,101144,ICICI Prudential Multi-Asset Fund - Growth,"{'date': '02-04-2006', 'nav': '54.69090'}"
+,scheme_category,scheme_code,scheme_name,scheme_start_date,3yr,4yr,5yr
+0,Equity Scheme - Flexi Cap Fund,100669,UTI - Flexi Cap Fund-Growth Option,"{'date': '03-04-2006', 'nav': '32.89000'}",0.8504933504933505,0.8698412698412699,0.9126984126984127
+1,Equity Scheme - Focused Fund,117560,Axis Focused 25 Fund - Regular Plan - Growth Option,"{'date': '05-07-2012', 'nav': '10.19000'}",0.9592094196804037,1.0,1.0
+2,Equity Scheme - Large Cap Fund,111940,Edelweiss Large Cap Fund - Regular Plan - Growth Option,"{'date': '21-05-2009', 'nav': '9.90000'}",0.8601478112563957,0.8619105939987752,0.8998009289980093
+3,Equity Scheme - Large Cap Fund,108467,ICICI Prudential Bluechip Fund - Institutional Option - I - Growth,"{'date': '26-05-2008', 'nav': '10.02000'}",0.8922124806601341,0.9136789851075565,0.9075281564908121
+4,Equity Scheme - Contra Fund,105460,Invesco India Contra Fund - Growth,"{'date': '12-04-2007', 'nav': '10.05000'}",0.8080690298507462,0.8637264618434093,0.9143763213530656
+5,Equity Scheme - Flexi Cap Fund,122640,Parag Parikh Flexi Cap Fund - Regular Plan - Growth,"{'date': '28-05-2013', 'nav': '9.99910'}",0.9122379327157484,0.9360755975541968,0.9605688429217841
+6,Equity Scheme - Large & Mid Cap Fund,112932,Mirae Asset Emerging Bluechip Fund - Regular Plan - Growth Option,"{'date': '12-07-2010', 'nav': '10.06600'}",0.9519664732430689,1.0,1.0
+7,Equity Scheme - Contra Fund,103040,Kotak India EQ Contra Fund - Growth,"{'date': '03-04-2006', 'nav': '14.13000'}",0.8427713427713428,0.8877551020408163,0.9377104377104377
+8,Equity Scheme - Large Cap Fund,108466,ICICI Prudential Bluechip Fund - Growth,"{'date': '26-05-2008', 'nav': '10.02000'}",0.8189788550799381,0.868450082735797,0.9309425014819206
+9,Hybrid Scheme - Multi Asset Allocation,104898,ICICI Prudential Multi-Asset Fund-Institutional Option - I,"{'date': '14-02-2007', 'nav': '9.99070'}",0.8110471806674339,0.8565844124114341,0.8739911481385056
+10,Equity Scheme - Flexi Cap Fund,112090,Kotak Flexicap Fund - Growth,"{'date': '17-09-2009', 'nav': '10.15700'}",0.8802588996763754,0.9142040038131554,0.9392055267702936
+11,Equity Scheme - Focused Fund,102756,SBI FOCUSED EQUITY FUND - REGULAR PLAN -GROWTH,"{'date': '03-04-2006', 'nav': '28.28000'}",0.79000429000429,0.7956916099773242,0.8436748436748437
+12,Equity Scheme - Flexi Cap Fund,101922,CANARA ROBECO FLEXICAP FUND - REGULAR PLAN - GROWTH OPTION,"{'date': '03-04-2006', 'nav': '30.13000'}",0.8494208494208494,0.918140589569161,0.9348244348244348
+13,Hybrid Scheme - Multi Asset Allocation,101144,ICICI Prudential Multi-Asset Fund - Growth,"{'date': '02-04-2006', 'nav': '54.69090'}",0.7966537966537967,0.8537414965986394,0.8934583934583935
+14,Equity Scheme - Large Cap Fund,111935,Edelweiss Large Cap Fund -Plan B - Growth option,"{'date': '21-05-2009', 'nav': '9.90000'}",0.8604320636725412,0.8622167789344765,0.9007962840079629
+15,Equity Scheme - Large & Mid Cap Fund,106144,Invesco India Growth Opportunities Fund - Growth,"{'date': '13-08-2007', 'nav': '9.91000'}",0.8569027611044417,0.907487860976233,0.951652553947009
+16,Equity Scheme - Mid Cap Fund,114564,Axis Midcap Fund - Regular Plan - Growth,"{'date': '24-02-2011', 'nav': '9.99000'}",0.8740869565217392,0.9542508577964163,0.9295655841417123
+17,Equity Scheme - Large Cap Fund,112277,Axis Bluechip Fund - Regular Plan - Growth,"{'date': '07-01-2010', 'nav': '10.08000'}",0.8324209245742092,0.9361001317523057,0.9744971264367817
+18,Equity Scheme - Large Cap Fund,107578,Mirae Asset Large Cap Fund - Growth Plan,"{'date': '09-04-2008', 'nav': '9.98000'}",1.0,0.9937380887557855,1.0
+19,Equity Scheme - Large Cap Fund,111937,Edelweiss Large Cap Fund -Plan C - Growth option,"{'date': '21-05-2009', 'nav': '9.90000'}",0.8598635588402501,0.8622167789344765,0.900464499004645
